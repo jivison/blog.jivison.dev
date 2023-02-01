@@ -1,0 +1,26 @@
+# Configure main menu and social menu
+[[main]]
+identifier = "jivison.dev"
+name = "jivison.dev"
+url = "https://jivison.dev"
+
+[main.params]
+icon = "link"
+newtab = false
+
+[[social]]
+identifier = "github"
+name = "GitHub"
+url = "https://github.com/jivison"
+
+[social.params]
+icon = "brand-github"
+
+[[social]]
+identifier = "twitter"
+name = "Twitter"
+url = "https://twitter.com/flushed_emojii"
+
+[social.params]
+icon = "brand-twitter"
+
